@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "Productname":"chicken",
+        "price":"250(1kg)",
+        "img":"https://www.licious.in/blog/wp-content/uploads/2022/03/Chicken-Curry-Cut-min-750x750.png"
+    },
+    {
+        "id":"2",
+        "Productname":"chicken(boneless)",
+        "price":"350(1kg)",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb81iBdmNbNkbrt6nHKRvNmghlvm5SMSjs-ir14OUp8IbjTEpPnudfMtVklx5I_iXoFYs&usqp=CAU"
+    },
+    {
+        "id":"3",
+        "Productname":"chicken(leg)",
+        "price":"150(2Leg)",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5-BPwgNf-PK9mDWRiEB7HDid-L2LNoXnKw&usqp=CAU"
+    },
+    {
+        "id":"4",
+        "Productname":"chicken(lungs)",
+        "price":"250(1kg)",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJuAI_Qi_x6lIYhAHWg1FBVRdI0m4MuX8Og&usqp=CAU"
+    }
+]

@@ -1,0 +1,19 @@
+
+.textSize{
+  width: 30px;
+}
+.btnProduct{
+  width: 40px;
+  height: 40px;
+}
+.table {
+  font-size: 14px;
+}
+.btnConform{
+  cursor:default;
+  border: none;
+  outline: none;
+  color:white;
+  font-size: 1px;
+  
+}
